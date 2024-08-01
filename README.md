@@ -9,5 +9,5 @@ This app allows you to calculate the download/upload time for files. The time it
 ## Download
 
 <a href="https://apps.microsoft.com/detail/9ns52q7rkv97?mode=direct">
-	<img src="https://get.microsoft.com/images/en-en%20dark.svg" width="200"/>
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
 </a>
